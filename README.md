@@ -1,5 +1,5 @@
 # TREYFER2
-TREYFER2 Encryption source code in C.
+TREYFER2 Block cipher encryption source code in C.
 
 TREYFER2 was released in 2005.It has exactly the same design as TREYFER but it no longer works on 64-bit blocks, instead it works on 128-bit blocks like AES.
 
